@@ -1,6 +1,22 @@
-# Pikachu Arena
+<p align="center">
+  <img src="assets/logo.jpg" alt="Pikachu Arena Logo" width="400"/>
+</p>
 
-A real-time multiplayer Pokemon battle game featuring turn-based combat, 3D graphics, and blockchain-based wagering on the Solana network.
+<h1 align="center">Pikachu Arena</h1>
+
+<p align="center">
+  <strong>A real-time multiplayer Pokemon battle game featuring turn-based combat, 3D graphics, and blockchain-based wagering on the Solana network.</strong>
+</p>
+
+<p align="center">
+  <a href="#features">Features</a> •
+  <a href="#screenshots">Screenshots</a> •
+  <a href="#wager-match-system">Wager System</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#license">License</a>
+</p>
+
+---
 
 ## Overview
 
@@ -33,6 +49,41 @@ Pikachu Arena is a competitive Pokemon battle platform where players can select 
 - **Automated Escrow**: Server-side escrow wallet for secure deposits
 - **Instant Payouts**: Automated winner payouts upon battle completion
 - **Free Play Mode**: Non-wager matches available for all users
+
+## Screenshots
+
+### Battle Arena
+Experience intense 3D Pokemon battles with real-time combat mechanics.
+
+<p align="center">
+  <img src="assets/battle-desktop.png" alt="Battle Arena - Desktop View" width="600"/>
+</p>
+
+<p align="center">
+  <em>Desktop view: Pikachu vs Charizard in the battle arena</em>
+</p>
+
+### Mobile Battle Interface
+Fully responsive design with touch-friendly controls and virtual joystick.
+
+<p align="center">
+  <img src="assets/battle-mobile.png" alt="Battle Arena - Mobile View" width="300"/>
+</p>
+
+<p align="center">
+  <em>Mobile view: Shiny Lugia battle with touch controls</em>
+</p>
+
+### Wager Arena
+Create or join wager rooms to battle for real SOL rewards.
+
+<p align="center">
+  <img src="assets/wager-arena.png" alt="Wager Arena" width="600"/>
+</p>
+
+<p align="center">
+  <em>Wager lobby: Create rooms and stake SOL on your battles</em>
+</p>
 
 ## Wager Match System
 
@@ -192,7 +243,7 @@ The platform uses a secure server-side escrow system:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pikachu-arena.git
+git clone https://github.com/PikachuArena/Pikachu-Arena.git
 cd pikachu-arena
 ```
 
